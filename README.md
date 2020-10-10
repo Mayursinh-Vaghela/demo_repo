@@ -1,2 +1,2 @@
-# demo_repo
-assignment repository
+# Demo
+Assignment repository
